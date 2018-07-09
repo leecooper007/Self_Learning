@@ -1,2 +1,3 @@
 # Self_Learning
-learn how to code
+* Learn some basics of python coding. 
+* Prepare for leetcode.
